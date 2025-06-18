@@ -1,4 +1,4 @@
-# Modern Manchu Print Font
+# Modern Manchu Text Font
 
 ## ✨ Project Goals
 
