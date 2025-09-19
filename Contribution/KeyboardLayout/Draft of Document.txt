@@ -1,0 +1,4 @@
+1.umlaut vowels = vowels+FVS2. except I.+FVS2-> the vowel for ZHI, CHI
+2.incorporate alternative Sibe letters
+3.Shift+Y = vowel for ZHI, CHI
+4.old KB U+e22f NNBS
