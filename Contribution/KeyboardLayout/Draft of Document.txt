@@ -2,3 +2,11 @@
 2.incorporate alternative Sibe letters
 3.Shift+Y = vowel for ZHI, CHI
 4.old KB U+e22f NNBS
+
+DZ	TS	RH 	
+Z	z	C	c	Q
+
+Bug:
+1. [ ] { } <> doesn't work
+2. remove dead keys of B, B=birga1, use opentype features to realize birga2&3:
+birga1+birga1=birga2, birga2+birga1=birga3
